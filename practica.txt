@@ -3,5 +3,3 @@ Bueno, esta es la versión inicial de la práctica.
 Qué pasa si lo modifico luego de hacer add?
 
 Este ya es un segundo commit.
-
-Este es el tercer commit.
