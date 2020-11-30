@@ -20,11 +20,19 @@ body{
     padding: 1rem;
 }
 #cabecera{
-    background: #5f54e4;
+    background: #8c68db;
     padding: 12px 20px;
     font-size: 1.5rem;
     font-weight: bold;
     color: white;
+    display: flex;
+    align-items: center;
+}
+#cabecera img{
+    max-width: 50px;
+}
+#cabecera #titulo-sitio{
+    margin-left: 1rem;
 }
 #cabecera span{
     font-size: .6em;
