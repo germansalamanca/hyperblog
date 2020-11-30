@@ -19,6 +19,12 @@ body{
 #post{
     padding: 1rem;
 }
+#footer{
+    background: gray;
+    padding: .6rem;
+    text-align: center;
+    color: white;
+}
 #cabecera{
     background: #8c68db;
     padding: 12px 20px;
